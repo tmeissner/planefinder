@@ -1,0 +1,10 @@
+h1. "planefinder":https://github.com/tmeissner/avr/tree/master/planefinder
+
+p(. A small device which is used to find model planes which landed somewhere in the field. The device works as follows:
+
+# Device is switched on
+# Short buzzer tone for function test
+# 20 minutes nothing happens ;)
+# Short buzzer tones, alternating by the two buzzers
+# You find the plane and switch off the device ;)
+
